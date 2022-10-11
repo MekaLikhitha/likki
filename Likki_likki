@@ -1,1 +1,6 @@
-My name is likki
+#include<studio.h>
+int main()
+{
+int ch;
+printf("my name is likki");
+}
